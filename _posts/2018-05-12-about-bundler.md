@@ -16,5 +16,4 @@ When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as
 
 For more information about how to use `Bundler` in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.
 
-![Calendar](assets/images/calendar.jpg)
-hey
+<img src="assets/images/calendar.jpg">calendar</img>
